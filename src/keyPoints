@@ -1,0 +1,3 @@
+should import modules correctly- check for auto import errors also
+if multiple components in project-use a index file to make named imports to reduce code 
+In js Component we must use return statement to see changes in UI even if component renders a empty block of code
